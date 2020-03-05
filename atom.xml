@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zero5652pzj.github.io</id>
-    <title>玺源</title>
-    <updated>2020-03-05T06:07:15.752Z</updated>
+    <title>DayDayUp</title>
+    <updated>2020-03-05T06:13:43.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zero5652pzj.github.io"/>
     <link rel="self" href="https://zero5652pzj.github.io/atom.xml"/>
-    <subtitle>每日一小步</subtitle>
+    <subtitle>每日up一小步</subtitle>
     <logo>https://zero5652pzj.github.io/images/avatar.png</logo>
     <icon>https://zero5652pzj.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 玺源</rights>
+    <rights>All rights reserved 2020, DayDayUp</rights>
     <entry>
         <title type="html"><![CDATA[测试文档]]></title>
         <id>https://zero5652pzj.github.io/post/ce-shi-wen-dang/</id>
