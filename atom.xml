@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zero5652pzj.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-05T05:26:43.630Z</updated>
+    <title>玺源</title>
+    <updated>2020-03-05T06:07:15.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zero5652pzj.github.io"/>
     <link rel="self" href="https://zero5652pzj.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>每日一小步</subtitle>
     <logo>https://zero5652pzj.github.io/images/avatar.png</logo>
     <icon>https://zero5652pzj.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 玺源</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文档]]></title>
+        <id>https://zero5652pzj.github.io/post/ce-shi-wen-dang/</id>
+        <link href="https://zero5652pzj.github.io/post/ce-shi-wen-dang/">
+        </link>
+        <updated>2020-03-05T05:41:36.000Z</updated>
+        <content type="html"><![CDATA[<p>这是测试文档</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zero5652pzj.github.io/post/hello-gridea/</id>
